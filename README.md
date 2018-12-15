@@ -1,7 +1,7 @@
 # mandelbrot
 Draw mandelbrot with C++11/SFML
 
-<img src="screenshot0.png">
+<img src="screenshot0.PNG">
 
 <img src="screenshot1.png">
 
